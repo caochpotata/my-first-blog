@@ -25,7 +25,7 @@ SECRET_KEY = '-xt7j_e-c9jl9ulllu_0)r3wt+i-1wr@dc=2bq9txi_b3y-170'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['caochpotata.pythonanywhere.com']
+ALLOWED_HOSTS = ['caochpotata.pythonanywhere.com', '127.0.0.1:8000']
 
 
 # Application definition
